@@ -1,0 +1,15 @@
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1.csprojAssemblyReference.cache
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\PresentationLayer\GameSessionView.g.cs
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\App.g.cs
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1_MarkupCompile.cache
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1_MarkupCompile.lref
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\bin\Debug\TBQuestGameRh.S2.1.exe.config
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\bin\Debug\TBQuestGameRh.S2.1.exe
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\bin\Debug\TBQuestGameRh.S2.1.pdb
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\PresentationLayer\GameSessionView.baml
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1.g.resources
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2._1.Properties.Resources.resources
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1.csproj.GenerateResource.cache
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1.exe
+C:\Users\Ryan\Desktop\TBQuestGameRHV3-master\TBQuestGameRHV3-master\TBQuestGameRh.S2.1\obj\Debug\TBQuestGameRh.S2.1.pdb
